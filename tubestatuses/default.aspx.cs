@@ -10,7 +10,7 @@ using System.Drawing;
 using Newtonsoft.Json;
 
 
-namespace tubeystatus
+namespace tubestatuses
 {
     public partial class tubestation : System.Web.UI.Page
     {

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace tubeystatus {
+namespace tubestatuses {
     
     
     public partial class tubestation {

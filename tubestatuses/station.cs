@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace tubeystatus
+namespace tubestatuses
 {
     public class ValidityPeriod
     {
